@@ -771,6 +771,10 @@
               "value": "pythonic"
             },
             {
+              "label": "qwen3_coder",
+              "value": "qwen3_coder"
+            },
+            {
               "label": "InternLM",
               "value": "internlm"
             }
